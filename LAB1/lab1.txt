@@ -1,0 +1,6 @@
+MODIFY THE POSITION OF DOG IN THE IMAGE BY MANIPULATING ITS COORDINATES(grayscale) 
+AVERAGE FILTER CODE (IMAGE WILL BECOME BLUR) USE GAUSSIAN FILTER MIDDLE VALU PREFERNCE HIGH,..
+Apply following filters using library on image 1.to blur gaussian and ... 2. apply filter for edge detection 
+brightness,contrast
+all filters using library discussed
+take 2 images 1.dog,2.horse,generate two new images having dog content horse head and vise versa
